@@ -3,6 +3,8 @@ The rules of the game is simple: Press a button to increase your score by 1. Eve
 
 When you end the game (enter 'q' into the termial), it calculates the average of your highscores, giving you an overview of your luck (or since that is the score which you failed at,  it calculates your bad luck?🤔)
 
+Requires python to run. Run it in your IDE or your terminal!
+
 ## Manual
 'Enter' - Button
 
