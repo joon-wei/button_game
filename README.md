@@ -1,7 +1,7 @@
 # The Button Game
 The rules of the game is simple: Press a button to increase your score by 1. Everytime your score increases, the chance of failing and having your score reset increases by 1%. The objective of the game is to get the highest score as possible, up to a maximum of 100. 
 
-When you end the game (enter 'q' into the termial), it calculates the average of your highscores, giving you an overview of your luck (or since that is the score which you failed at,  it calculates your bad luck?)
+When you end the game (enter 'q' into the termial), it calculates the average of your highscores, giving you an overview of your luck (or since that is the score which you failed at,  it calculates your bad luck?🤔)
 
 ## Manual
 'Enter' - Button
